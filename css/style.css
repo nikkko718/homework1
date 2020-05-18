@@ -1,0 +1,45 @@
+h1 {
+    font: bold italic 200% serif;
+    color:#4A312B;
+    padding-top: 50px;
+}
+h2 {
+    font: bold italic 150% Palatino;
+    color:#32140D;
+    padding: 5px;
+}
+#s1{
+    background: #D6CDCB;
+    height: 150px;
+}
+.my-style {
+    background: #ACE7C6;
+    height: 550px;
+    position: relative;
+}
+.im-c{
+    width: 25%;
+    height: 460px;
+    float: left;
+    top: 25%;
+}
+#p1{
+    font: 15pt "Times New Roman";
+    float: left;
+    width: 50%;
+    color: #271C4F;
+}
+#b2{
+    height: 100%;
+    background: #B3A2F0;
+}
+#u1{
+    font: italic 13pt "Times New Roman";
+}
+#a1{
+    padding: 20px;
+}
+span{
+    font: bold italic 14pt Arial;
+    color: red;
+}
